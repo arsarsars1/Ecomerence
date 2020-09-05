@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "70283255803",
+    "firebase_url": "https://ecomerence-2f871.firebaseio.com",
+    "project_id": "ecomerence-2f871",
+    "storage_bucket": "ecomerence-2f871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70283255803:android:4d830822ba0fa52615355e",
+        "android_client_info": {
+          "package_name": "com.gatepay.economic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70283255803-o512rq79c3hd4ihc95395k9gevtur0fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT1UrAGDQmBD9T7Ic2jTfIoGTvuAlKyoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70283255803-o512rq79c3hd4ihc95395k9gevtur0fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

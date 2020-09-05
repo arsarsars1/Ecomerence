@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>70283255803-ldckk1q8k4vmfot2citllu45ui0aspkl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.70283255803-ldckk1q8k4vmfot2citllu45ui0aspkl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBZMuqI4Y4D_f4istvzoppKsbmwyNClMWs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>70283255803</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gatepay.economic</string>
+	<key>PROJECT_ID</key>
+	<string>ecomerence-2f871</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ecomerence-2f871.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:70283255803:ios:019be3195908fe6a15355e</string>
+	<key>DATABASE_URL</key>
+	<string>https://ecomerence-2f871.firebaseio.com</string>
+</dict>
+</plist>
